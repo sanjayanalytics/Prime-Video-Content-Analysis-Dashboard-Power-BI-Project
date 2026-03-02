@@ -11,7 +11,7 @@ The objective of this project is to demonstrate strong **data visualization, dat
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/sanjayanalytics/Retail-Sales-Performance-dashboard-Power-BI/blob/789f4948b7fbbce15cb873dc191f835f0e6f3667/Retail%20Sales%20Performance%20Dashboard%20image%20final.png" width="900">
+  <img src="https://github.com/sanjayanalytics/Prime-Video-Content-Analysis-Dashboard-Power-BI-Project/blob/563005508e51f43969bcf85e0d8add8ebd88e4de/Prime%20Video%20Dashboard%20Image.png" width="900">
 </p>
 
 ## 📊 Key Dashboard Highlights
