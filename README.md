@@ -1,4 +1,4 @@
-# 🎬 Prime Video Content Analysis Dashboard – Power BI Project
+# 🎬 Prime Video Content Analysis Dashboard – Power BI
 
 ## 📌 Project Overview
 
